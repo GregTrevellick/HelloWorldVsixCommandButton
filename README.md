@@ -9,7 +9,7 @@
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldVsixCommandButton?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldVsixCommandButton)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9bd4afcff4a544c8bd64757f0c3a1e5a)](https://www.codacy.com/project/gtrevellick/HelloWorldVsixCommandButton/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVsixCommandButton&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixCommandButton/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixCommandButton)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixCommandButton/report?token=3idyIU2dmKtdB5C_CTCQSZKS74YiMAmGBOm-4syQOS0&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixCommandButton/branch/master/summary)
+[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVsixCommandButton/report?token=3idyIU2dmKtdB5C_CTCQSZKS74YiMAmGBOm-4syQOS0)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVsixCommandButton/branch/master/summary)
 
 
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldVsixCommandButton.svg)](https://github.com/GregTrevellick/HelloWorldVsixCommandButton)
