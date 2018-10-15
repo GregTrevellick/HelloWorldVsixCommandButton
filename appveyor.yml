@@ -12,7 +12,7 @@ before_build:
     - cmd: nuget restore Src/VsixHelloWorldCommandButton.sln
     - choco install opencover.portable
     - choco install codecov
-    - SonarScanner.MSBuild.exe begin /k:"VsixHelloWorldCommandButton" /d:"sonar.host.url=https://sonarqube.com" /d:"sonar.login=%my_encrypted_sonarqube_token%" /d:"sonar.organization=gregtrevellick-github"
+    - SonarScanner.MSBuild.exe begin /k:"HelloWorldVsixCommandButton" /d:"sonar.host.url=https://sonarqube.com" /d:"sonar.login=%my_encrypted_sonarqube_token%" /d:"sonar.organization=gregtrevellick-github"
 build:
   project: Src/VsixHelloWorldCommandButton.sln
   verbosity: minimal
