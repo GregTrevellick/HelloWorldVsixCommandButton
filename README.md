@@ -5,10 +5,7 @@
 [![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20ReadMeSynchronizer-brightgreen.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldVsixCommandButton?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldVsixCommandButton)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9bd4afcff4a544c8bd64757f0c3a1e5a)](https://www.codacy.com/project/gtrevellick/HelloWorldVsixCommandButton/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVsixCommandButton&amp;utm_campaign=Badge_Grade_Dashboard)
-
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixCommandButton/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixCommandButton)
-
-
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldVsixCommandButton.svg)](https://github.com/GregTrevellick/HelloWorldVsixCommandButton)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/HelloWorldVsixCommandButton.svg)](https://github.com/GregTrevellick/HelloWorldVsixCommandButton)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldVsixCommandButton.svg)](https://github.com/GregTrevellick/HelloWorldVsixCommandButton/issues)
@@ -33,7 +30,6 @@
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
-
 [Subscribe](https://github.com/GregTrevellick/HelloWorldVsixCommandButton/subscription) to receive notificatons.
 
 <!--BadgesEND-->
