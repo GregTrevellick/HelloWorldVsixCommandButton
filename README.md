@@ -9,6 +9,9 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixCommandButton/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVsixCommandButton)
 <!-- no md -->
 <!-- no md -->
+<!-- no md -->
+<!-- no md -->
+<!-- no md -->
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldVsixCommandButton.svg)](https://github.com/GregTrevellick/HelloWorldVsixCommandButton)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/HelloWorldVsixCommandButton.svg)](https://github.com/GregTrevellick/HelloWorldVsixCommandButton)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/HelloWorldVsixCommandButton.svg)](https://github.com/GregTrevellick/HelloWorldVsixCommandButton/issues)
